@@ -1,0 +1,49 @@
+body
+{
+    background-color: gray;
+}
+
+
+.división
+{
+    margin: 5%;
+}
+
+.división ul
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.división li
+{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    margin: 5%;
+    width: 500px;
+    height: 450px;
+    background-color: white;
+}
+#imagen
+{
+    border-radius: 10px 10px 0 0px;
+    
+}
+#imagen img{
+    border-radius: 10px 10px 0 0px;
+    width: 100%;
+    height: 200px;
+}
+#boton
+{
+    height: 80px;
+    text-align: center;
+    align-items: flex-end;
+    background-color: orange;
+    border-radius: 30px;
+}
+#contenido
+{
+    align-self: flex-start;
+}
