@@ -1,15 +1,8 @@
-.conjunto
-{
-    background-color:gray ;
-    border: 30px;
-    border-color: aquamarine;
-    
-    
-}
+
 .contenido
 {
     
-    background-color: gray;
+    background-color: white;
     width: 1000px;
     height: 200px;
     display: flex;
