@@ -1,0 +1,49 @@
+.conjunto
+{
+    background-color:gray ;
+    border: 30px;
+    border-color: aquamarine;
+    
+    
+}
+.contenido
+{
+    
+    background-color: gray;
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.recuadro
+{
+    height: 80px;
+    margin: 3px;
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(180deg, #E5E5E5 0%, rgba(229, 229, 229, 0) 100%);
+}
+.recuadro img
+{
+    width: 100%;
+}
+.recuadro p
+{
+    margin: 0%;
+}
+#mensaje
+{
+    display: flex;
+}
+#numero
+{
+    width: 17px;
+    height: 15px;
+    color: white;
+    font-size: small;
+    border-radius: 100%;
+    background-color: red;
+    
+}
